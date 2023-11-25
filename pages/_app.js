@@ -56,8 +56,8 @@ function MyApp({ Component, pageProps }) {
         <meta name="theme-color" content="#000000" />
 
         {/* Primary Meta Tags */}
-        <title>Developer Empire</title>
-        <meta name="title" content="Developer Empire" />
+        <title>Developer List</title>
+        <meta name="title" content="DevList" />
         <meta
           name="description"
           content="All in one place where you can find all the resources and details of 
@@ -96,7 +96,7 @@ function MyApp({ Component, pageProps }) {
           property="twitter:image"
           content="https://devempire.netlify.app/assets/meta-img/Meta.webp"
         />
-        <title>DevEmpire</title>
+        <title>DevList</title>
       </Head>
       <Component {...pageProps} />
     </Layout>

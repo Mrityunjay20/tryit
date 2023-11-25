@@ -21,7 +21,7 @@ const Landingpage = () => {
         <div className="container-landing">
           <div className="landing-page-header">
             <div className="header-details">
-              <h1>Developer Empire</h1>
+              <h1>Dev List</h1>
               <p>
                 It's time to close those extra tabs. Welcome to your one-stop
                 solution for all resources and details on ambassador/fellowship
@@ -29,14 +29,7 @@ const Landingpage = () => {
               </p>
               <div className="landing-page-btn-container">
                 <div className="discord-button">
-                  <a
-                    className="discord"
-                    href="https://discord.com/invite/V4W4Z4sTmh"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <img src="../assets/share-img/Discord-share.webp" alt="" />
-                  </a>
+                  
                 </div>
                 <div className="explore-all-btn">
                   <div

@@ -38,7 +38,7 @@ const Links = () => {
         <div className="wideDiv">
           <div className="logo-containter">
             <Link href="/">
-              <p>Dev Empire</p>
+              <p>Dev List</p>
             </Link>
             <div className="theme-toggle-button" id="toggle-button">
               <ThemeToggle />
@@ -146,7 +146,7 @@ const Links = () => {
             className="logo-containter"
           >
             <Link href="/">
-              <p>Dev Empire</p>
+              <p>Dev List</p>
             </Link>
           </div>
           {/* Global search bar for collapsed nav starts */}
